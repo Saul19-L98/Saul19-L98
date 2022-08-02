@@ -1,4 +1,4 @@
-### HOLA, my name is Saúl Laínez 🙈🙉.
+# HOLA, my name is Saúl Laínez 🙈🙉.
 
 <h3 align="center">A passionate developer from El Salvador that love create useful solution using software as a tool to achieve better resolves.</h3>
 
@@ -20,9 +20,4 @@
 
 ![](https://activity-graph.herokuapp.com/graph?username=saul19-l98&theme=github)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saul19-l98&show_icons=true&locale=en&layout=compact&theme=radical&hide=stars,issues" alt="saul19-l98" /></p>
-
-<h1 align = 'Center'>Watch a 🐍 eating my Contribution Graph</h1>
-<p align="center">
-  <img src="https://github.com/saul19-l98/saul19-l98/blob/output/github-contribution-grid-snake.gif" alt="snake"></center>
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saul19-l98&show_icons=true&locale=en" alt="saul19-l98" /></p>
