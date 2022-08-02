@@ -1,8 +1,12 @@
 # HOLA, my name is Saúl Laínez 🙈🙉.
 
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
 <h3 align="center">A passionate developer from El Salvador that love create useful solution using software as a tool to achieve better resolves.</h3>
 
 - 💬 Ask me about **javascript and his frameworks, databases and OOP.**
+
+- 🎓 Studying Computer Science Engineering at Don Bosco University.
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1f2cy5wu-XwMS5itDJWZVJjOub1OvMv2P/view?usp=sharing](https://drive.google.com/file/d/1f2cy5wu-XwMS5itDJWZVJjOub1OvMv2P/view?usp=sharing)
 
