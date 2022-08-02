@@ -20,6 +20,6 @@
 
 ![](https://activity-graph.herokuapp.com/graph?username=saul19-l98&theme=github)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saul19-l98&show_icons=true&locale=entheme=radical&hide=stars,issues" alt="saul19-l98" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saul19-l98&show_icons=true&locale=en&theme=radical&hide=stars,issues" alt="saul19-l98" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saul19-l98&show_icons=true&locale=en&layout=compact&theme=radical&hide=stars,issues" alt="saul19-l98" /></p>
