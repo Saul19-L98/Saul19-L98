@@ -1,34 +1,61 @@
-# HOLA, my name is Saúl Laínez 🙈🙉
+# Saúl Laínez
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+**AI Engineer & Cloud Solutions Architect** · San Salvador, El Salvador
 
-<h3 align="center">A passionate developer from El Salvador that love create useful solution using software as a tool to achieve better resolves.</h3>
+I design event-driven AWS platforms and the AI agents that run on top of them.
+Over the last twelve months: **28 projects, 60 repositories, 10 clients, 754 commits** —
+moving from *"get me this data"* to *"here is the platform your team builds on."*
 
-- 💬 Ask me about **javascript and his frameworks, databases and OOP.**
+## What I do
 
-- 🎓 Studying Computer Science Engineering at Don Bosco University.
+**Cloud architecture & IaC.** Designed and deployed a **362-resource, ten-service
+event-driven AWS platform solo in eleven days** — a single EventBridge bus with
+per-source IAM restriction, filtered subscriptions, DLQs, dashboards and anomaly alarms
+across 26 Lambda functions, with a formal architecture document generated from the code.
+Built a Terraform/Terragrunt landing zone for a regional food manufacturer including a
+**site-to-site VPN to their on-premises network** (customer gateway, BGP ASN, tunnel
+addressing), .NET Lambdas, and a four-stage CodePipeline with SonarQube static analysis.
+I can stand up a complete client engagement — IaC, backend, CI/CD, front-end shells — in
+a day.
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1f2cy5wu-XwMS5itDJWZVJjOub1OvMv2P/view?usp=sharing](https://drive.google.com/file/d/1f2cy5wu-XwMS5itDJWZVJjOub1OvMv2P/view?usp=sharing)
+**AI & agent engineering.** Seven Amazon Bedrock projects: text-to-SQL over PostgreSQL,
+text-to-DAX against Power BI via Microsoft Entra OAuth2, and a vision agent scoring
+retail shelf photography. The design principle is consistent — *let the model generate
+the query, constrain what the query can do*: read-only SQL validation backed by a
+read-only database user, injection prevention at the tool boundary. I also build the AI
+working environment itself, from repo instruction files to ~30 machine-readable rule
+sets published as Claude Agent Skills.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sallanez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sallanez" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/saúl-laínez-764a131a8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saúl-laínez-764a131a8" height="30" width="40" /></a>
-<a href="https://fb.com/saulalejandro.lainezmejia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saulalejandro.lainezmejia" height="30" width="40" /></a>
-</p>
+**Data acquisition & ETL.** Nine production pipelines against systems that did not want
+to be read — subscription trade platforms, a bot-protected supplier portal with SMS 2FA,
+an SAP ERP, and a government customs API. One ran in production for ten months, with
+deduplication solved at the schema level. The most recent one started by asking whether
+an API existed: 517 lines instead of 14,000.
 
-<h3 align="left">Languages and Tools:</h3>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+**Deployment, documentation, security.** The recurring role across projects someone else
+wrote — making them deployable, secure and repeatable with Docker, ECR, App Runner,
+Amplify, SAM and CodePipeline. I usually write more documentation than code, including
+Spanish end-user manuals for non-technical staff, and I have shipped unprompted security
+assessments (disabled TLS verification, exposed tokens, secrets at rest) with prioritized
+remediation.
 
-<h2 align="center">My Contribution Streak !! :fire:</h2>
+## Tech
 
-![](https://activity-graph.herokuapp.com/graph?username=saul19-l98&theme=github)
+- **Cloud & IaC** — AWS · Terraform · Terragrunt · AWS SAM · Docker · ECR · CodePipeline · Amplify · App Runner
+- **AWS** — Lambda · EventBridge · S3 · Glue · DynamoDB · Aurora · RDS Proxy · API Gateway · AppSync · Cognito · SQS/SNS · CloudWatch · X-Ray · WAF
+- **AI** — Amazon Bedrock (agents, action groups, agent runtime, vision) · MCP · Claude Agent Skills
+- **Languages** — Python · TypeScript · PHP · C# / .NET · SQL
+- **Data** — PostgreSQL · pandas · Polars · Playwright · pipeline & schema design
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saul19-l98&show_icons=true&locale=en&theme=radical&hide=stars,issues" alt="saul19-l98" /></p>
+## Also
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saul19-l98&show_icons=true&locale=en&layout=compact&theme=radical&hide=stars,issues" alt="saul19-l98" /></p>
+Learned PHP/Laravel/Filament from zero and shipped a 26,500-line budget-management
+product for an industrial manufacturer in six months. Work bilingually: Spanish client
+domains and end-user documentation, English engineering.
 
-<h1 align = 'Center'>Watch a 🐍 eating my Contribution Graph</h1>
-<p align="center">
-  <img src="https://github.com/saul19-l98/saul19-l98/blob/output/github-contribution-grid-snake.gif" alt="snake"></center>
-</p>
+---
+
+> Most of my work from the past year lives in private repositories under a separate work
+> account, so this profile's contribution graph is not a useful signal.
+
+**[LinkedIn](https://www.linkedin.com/in/sa%C3%BAl-la%C3%ADnez-764a131a8)** · **[Email](mailto:saul.alejandro19@gmail.com)**
