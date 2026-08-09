@@ -1,3 +1,5 @@
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
 # Saúl Laínez
 
 **AI Engineer & Cloud Solutions Architect** · San Salvador, El Salvador
@@ -5,6 +7,13 @@
 I design event-driven AWS platforms and the AI agents that run on top of them.
 Over the last twelve months: **28 projects, 60 repositories, 10 clients, 754 commits** —
 moving from *"get me this data"* to *"here is the platform your team builds on."*
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/sa%C3%BAl-la%C3%ADnez-764a131a8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://twitter.com/sallanez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sallanez" height="30" width="40" /></a>
+<a href="mailto:saul.alejandro19@gmail.com">📫 saul.alejandro19@gmail.com</a>
+</p>
 
 ## What I do
 
@@ -47,15 +56,55 @@ remediation.
 - **Languages** — Python · TypeScript · PHP · C# / .NET · SQL
 - **Data** — PostgreSQL · pandas · Polars · Playwright · pipeline & schema design
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="40" height="40"/></a>
+<a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original-wordmark.svg" alt="terraform" width="40" height="40"/></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
+<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet" width="40" height="40"/></a>
+<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
+<a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
+<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg" alt="laravel" width="40" height="40"/></a>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original-wordmark.svg" alt="fastapi" width="40" height="40"/></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/></a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="40" height="40"/></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/></a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
+</p>
+
 ## Also
 
 Learned PHP/Laravel/Filament from zero and shipped a 26,500-line budget-management
 product for an industrial manufacturer in six months. Work bilingually: Spanish client
 domains and end-user documentation, English engineering.
 
+<h2 align="center">My Contribution Streak !! :fire:</h2>
+
+![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Saul19-L98&theme=github-compact&hide_border=true)
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Saul19-L98&theme=radical&hide_border=true" alt="streak stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saul19-L98&theme=radical" alt="profile summary" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Saul19-L98&theme=radical" alt="languages by repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Saul19-L98&theme=radical" alt="languages by commit" />
+</p>
+
+<h1 align="center">Watch a 🐍 eating my Contribution Graph</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Saul19-L98/Saul19-L98/output/github-contribution-grid-snake.gif" alt="snake" />
+</p>
+
 ---
 
 > Most of my work from the past year lives in private repositories under a separate work
 > account, so this profile's contribution graph is not a useful signal.
-
-**[LinkedIn](https://www.linkedin.com/in/sa%C3%BAl-la%C3%ADnez-764a131a8)** · **[Email](mailto:saul.alejandro19@gmail.com)**
